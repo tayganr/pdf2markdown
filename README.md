@@ -8,7 +8,6 @@ Before getting started, ensure you have:
 
 - An [Azure AI Document Intelligence](https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/how-to-guides/create-document-intelligence-resource) resource provisioned in your Azure subscription.
 - The API [endpoint and key](https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/how-to-guides/create-document-intelligence-resource?view=doc-intel-4.0.0#get-endpoint-url-and-keys) for your Azure AI Document Intelligence resource.
-- A PDF file to convert. Rename the file to `document.pdf` and place it in the project folder (alongside [`handler.py`](handler.py)).
 
 ## Setup Instructions
 
