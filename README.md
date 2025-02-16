@@ -1,4 +1,4 @@
-# pdf2markdown
+# PDF to Markdown Conversion Using Azure AI Document Intelligence
 
 Automate the conversion of a PDF document into Markdown format using Azure AI Document Intelligence. This project demonstrates how to analyze a PDF using Azure services, and output Markdown content to a file.
 
