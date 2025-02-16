@@ -2,3 +2,4 @@ venv/
 .env
 document.pdf
 document.md
+.DS_Store
